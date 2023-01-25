@@ -17,4 +17,4 @@ Finally I created a heat bubbled over the map to find the hotspots where someone
 below is the dashboard. And watch out for racoons while driving!
 
 
-https://public.tableau.com/app/profile/mohamed.yasir.mohamed.maideen/viz/RoadkillAnalysisfortheCityofCincinnati/Dashboard1
+https://public.tableau.com/views/AnimalRoadkillAnalysis-CityofCincinnati/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
